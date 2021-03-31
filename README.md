@@ -4,6 +4,8 @@ Welcome to our intermediate SQL coding challenge. In this exercise, you'll creat
 
 You're on a popular social media app where users can create posts and comment on posts, and you're browsing an user's profile page where you can see all the posts this user has created along with the latest comments that are attached to each post.
 
+![Post & Comments](https://i.imgur.com/XVtOxAb.png)
+
 Your objectives:
 
 1. Create SQL tables `Users`, `Posts` and `Comments`.
