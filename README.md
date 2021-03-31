@@ -6,7 +6,7 @@ You're on a popular social media app where users can create posts and comment on
 
 ![Post & Comments](https://i.imgur.com/XVtOxAb.png)
 
-Your objectives:
+## Your objectives:
 
 1. Create SQL tables `Users`, `Posts` and `Comments`.
 2. Populate some dummy data into these tables.
